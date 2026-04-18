@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "822ec31d8ef1e2c4",
+        "id": "890f45795190b2f0",
         "type": "tabs",
         "children": [
           {
-            "id": "19daf2373bcb3e35",
+            "id": "e9ae28e29a6dac80",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -180,8 +180,14 @@
       "bases:Створити нову базу": false
     }
   },
-  "active": "19daf2373bcb3e35",
+  "active": "e9ae28e29a6dac80",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "Templates/Нотатка.md",
+    "raw/Clippings/sileadeopenclaw-guide Полный гайд по развёртыванию персональной AI-коробки на базе OpenClaw с локальными моделями.md",
+    "wiki/entities/Мікі.md",
+    "wiki/entities/Сем.md",
+    "ClawHub.md",
     "Clippings/sileadeopenclaw-guide Полный гайд по развёртыванию персональной AI-коробки на базе OpenClaw с локальными моделями.md",
     "Без назви 1.canvas",
     "Clippings",
@@ -197,7 +203,6 @@
     "wiki/entities/Адам.md",
     "wiki/concepts/Метод Карпаті.md",
     "Без назви.base",
-    "Templates/Нотатка.md",
     "wiki/entities/Алім.md",
     "2026-04-18.md",
     "Templates/Без назви.md",
@@ -210,7 +215,6 @@
     "Templates/Без назви 1.md",
     "Templates",
     "SCHEMA.md",
-    "wiki/log.md",
     "створіть посилання.md",
     "Вітаємо.md"
   ]
