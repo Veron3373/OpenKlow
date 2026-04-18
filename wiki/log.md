@@ -26,3 +26,9 @@ created: 2026-04-18
 - Створено concepts: ACP
 - Перенесено Clippings/ → raw/Clippings/
 - Оновлено index.md
+
+## [2026-04-18] compile | Вечірня компіляція (cron 22:00 Kyiv)
+- Оновлено memory/2026-04-18.md (очищено дублікати)
+- Додано entities: Сем, Мікі
+- Додано concepts: TTS
+- Оновлено index.md
