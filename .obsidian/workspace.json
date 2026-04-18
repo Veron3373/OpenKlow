@@ -182,6 +182,9 @@
   },
   "active": "e9ae28e29a6dac80",
   "lastOpenFiles": [
+    "wiki/concepts/TTS.md",
+    "wiki/inbox/README.md",
+    "wiki/inbox",
     "wiki/log.md",
     "wiki/concepts/Telegram Bot Architecture.md",
     "Templates/Нотатка.md",
@@ -216,9 +219,6 @@
     "wiki/connections",
     "wiki/index.md",
     "Templates/Без назви 1.md",
-    "Templates",
-    "SCHEMA.md",
-    "створіть посилання.md",
-    "Вітаємо.md"
+    "SCHEMA.md"
   ]
 }
