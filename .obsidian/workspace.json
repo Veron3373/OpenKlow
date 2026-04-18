@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "be94ab8a85bded60",
+    "type": "split",
+    "children": [
+      {
+        "id": "822ec31d8ef1e2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19daf2373bcb3e35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нова вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37439b82393aaed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f700d9aec7a93758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745a5f9f752bd9e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "669e2bcdca31e1d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "0459c77f3bbb0131",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "843439257626453e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d62f8f04a69b0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30fc41b46ec81ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без назви 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Без назви 1"
+            }
+          },
+          {
+            "id": "40a6b712e3382077",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без назви 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Без назви 1"
+            }
+          },
+          {
+            "id": "b22190485389f818",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "ea96b53b8583b4b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "59f7e8594d77dcbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без назви 1.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Без назви 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
+    }
+  },
+  "active": "19daf2373bcb3e35",
+  "lastOpenFiles": [
+    "Clippings/sileadeopenclaw-guide Полный гайд по развёртыванию персональной AI-коробки на базе OpenClaw с локальными моделями.md",
+    "Без назви 1.canvas",
+    "Clippings",
+    "Без назви 1.base",
+    "Без назви.canvas",
+    "Без назви 2.base",
+    "Без назви 3.base",
+    "Без назви 4.base",
+    "wiki/daily/2026-04-18.md",
+    "wiki/daily",
+    "Obsidian.md",
+    "ACP.md",
+    "wiki/entities/Адам.md",
+    "wiki/concepts/Метод Карпаті.md",
+    "Без назви.base",
+    "Templates/Нотатка.md",
+    "wiki/entities/Алім.md",
+    "2026-04-18.md",
+    "Templates/Без назви.md",
+    "wiki/concepts/Автокомпіляція пам'яті.md",
+    "wiki/entities/CoreVault.md",
+    "wiki/entities/OpenClaw.md",
+    "wiki/qa",
+    "wiki/connections",
+    "wiki/index.md",
+    "Templates/Без назви 1.md",
+    "Templates",
+    "SCHEMA.md",
+    "wiki/log.md",
+    "створіть посилання.md",
+    "Вітаємо.md"
+  ]
+}
