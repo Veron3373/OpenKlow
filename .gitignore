@@ -1,0 +1,6 @@
+# Secrets & runtime
+.openclaw/
+state/
+CoreVault/
+*.token.json
+_adam_test.txt
